@@ -3,13 +3,13 @@
     {
        "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "admobe",
-      "main_ads_intertitial":"admobe",
-      "main_ads_natives":"admobe",
-      "backup_ads_natives":"applovin",
-      "backup_ads_banner":"applovin",
-      "backup_ads_intertitial":"applovin",
-      "open_ads_admob":"admobe",
+      "main_ads_banner": "ca-app-pub-2631643370199907/6747345010",
+      "main_ads_intertitial":"ca-app-pub-2631643370199907/5434263340",
+      "main_ads_natives":"ca-app-pub-2631643370199907/3623970144",
+      "backup_ads_natives":"d8151061d79d7c98",
+      "backup_ads_banner":"effad6e9dc7fd845",
+      "backup_ads_intertitial":"1e030d8daf901c3e",
+      "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
@@ -30,709 +30,359 @@
   "Categories": [
     {
       "name_category": "1",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/05/8a/1a/058a1aaad82d513df2330ac1e71fba0a.jpg"
     }
   ],
   "Wallpaper": [
     {
       "id": 1,
       "name_category": "1",
-      "wallpaper_name": "Image 1",
+      "wallpaper_name": "Boboi Boy 1",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/05/8a/1a/058a1aaad82d513df2330ac1e71fba0a.jpg"
     },
 	{
       "id": 2,
       "name_category": "1",
-      "wallpaper_name": "Image 2",
+      "wallpaper_name": "Boboi Boy 2",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d4/15/a6/d415a65ee9a30c564f73ac19a63e5375.jpg"
     },
 	{
       "id": 3,
       "name_category": "1",
-      "wallpaper_name": "Image 3",
+      "wallpaper_name": "Boboi Boy 3",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/13/dc/a2/13dca2b1c0c05fd301f9c100152ea54e.jpg"
     },
 	{
       "id": 4,
       "name_category": "1",
-      "wallpaper_name": "Image 4",
+      "wallpaper_name": "Boboi Boy 4",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/ff/8a/aa/ff8aaa3b4d2ee030557c724df4e69f3e.jpg"
     },
 	{
       "id": 5,
       "name_category": "1",
-      "wallpaper_name": "Image 5",
+      "wallpaper_name": "Boboi Boy 5",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/56/6f/bc/566fbcc6d1f6854bdd3f1f437b80be43.jpg"
     },
 	{
       "id": 6,
       "name_category": "1",
-      "wallpaper_name": "Image 6",
+      "wallpaper_name": "Boboi Boy 6",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/8c/53/ff/8c53ff4a1926f51555f33211adb0b46e.jpg"
     },
 	{
       "id": 7,
       "name_category": "1",
-      "wallpaper_name": "Image 7",
+      "wallpaper_name": "Boboi Boy 7",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/11/83/98/11839873cade2db1f219df39f244e38f.jpg"
     },
 	{
       "id": 8,
       "name_category": "1",
-      "wallpaper_name": "Image 8",
+      "wallpaper_name": "Boboi Boy 8",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d2/07/0d/d2070de43d8aa3e51a63fbce0713d496.jpg"
     },
 	{
       "id": 9,
       "name_category": "1",
-      "wallpaper_name": "Image 9",
+      "wallpaper_name": "Boboi Boy 9",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/62/f0/2a/62f02af017113b8f79e387e69728b2dc.jpg"
     },
 	{
       "id": 10,
       "name_category": "1",
-      "wallpaper_name": "Image 10",
+      "wallpaper_name": "Boboi Boy 10",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/1a/78/b7/1a78b72072a4807e9fde156d895b7613.jpg"
     },
 	{
       "id": 11,
       "name_category": "1",
-      "wallpaper_name": "Image 11",
+      "wallpaper_name": "Boboi Boy 11",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/5b/db/08/5bdb0899d65c53a6c1d7ddb0c2524955.jpg"
     },
 	{
       "id": 12,
       "name_category": "1",
-      "wallpaper_name": "Image 12",
+      "wallpaper_name": "Boboi Boy 12",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/93/e2/bb/93e2bb11741c340c82dbe9bcff35dc22.jpg"
     },
 	{
       "id": 13,
       "name_category": "1",
-      "wallpaper_name": "Image 13",
+      "wallpaper_name": "Boboi Boy 13",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/eb/c3/51/ebc3514e63ee38513447e69a326a1667.jpg"
     },
 	{
       "id": 14,
       "name_category": "1",
-      "wallpaper_name": "Image 14",
+      "wallpaper_name": "Boboi Boy 14",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/1e/aa/fb/1eaafb9330ae778e1fe7580523931178.jpg"
     },
 	{
       "id": 15,
       "name_category": "1",
-      "wallpaper_name": "Image 15",
+      "wallpaper_name": "Boboi Boy 15",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/6d/7c/a9/6d7ca945c5bd9888155fc8557dd9fc63.jpg"
     },
 	{
       "id": 16,
       "name_category": "1",
-      "wallpaper_name": "Image 16",
+      "wallpaper_name": "Boboi Boy 16",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/7b/15/d9/7b15d9442bda05d399d967c8114027bf.jpg"
     },
 	{
       "id": 17,
       "name_category": "1",
-      "wallpaper_name": "Image 17",
+      "wallpaper_name": "Boboi Boy 17",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/34/5c/40/345c4059125a8d4837208979fadc1828.jpg"
     },
 	{
       "id": 18,
       "name_category": "1",
-      "wallpaper_name": "Image 18",
+      "wallpaper_name": "Boboi Boy 18",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/93/28/cc/9328cca1694a20204c135f1a7240ee0b.jpg"
     },
 	{
       "id": 19,
       "name_category": "1",
-      "wallpaper_name": "Image 19",
+      "wallpaper_name": "Boboi Boy 19",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/3b/9c/17/3b9c178d043ec4e4a99fa8080b6d3238.jpg"
     },
 	{
       "id": 20,
       "name_category": "1",
-      "wallpaper_name": "Image 20",
+      "wallpaper_name": "Boboi Boy 20",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/6c/78/98/6c7898cfcd6e02bfb5bf5b8a901f5a77.jpg"
     },
 	{
       "id": 21,
       "name_category": "1",
-      "wallpaper_name": "Image 21",
+      "wallpaper_name": "Boboi Boy 21",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d5/97/eb/d597ebd9139ed0864b638ccc98fce881.jpg"
     },
 	{
       "id": 22,
       "name_category": "1",
-      "wallpaper_name": "Image 22",
+      "wallpaper_name": "Boboi Boy 22",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/91/ee/41/91ee4198fd460b196856fe51219eeb10.jpg"
     },
 	{
       "id": 23,
       "name_category": "1",
-      "wallpaper_name": "Image 23",
+      "wallpaper_name": "Boboi Boy 23",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/59/cd/14/59cd14d205249bbaf94b26df4951be3a.jpg"
     },
 	{
       "id": 24,
       "name_category": "1",
-      "wallpaper_name": "Image 24",
+      "wallpaper_name": "Boboi Boy 24",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/91/63/c3/9163c381004016ed0f4910e1b3f4bdab.jpg"
     },
 	{
       "id": 25,
       "name_category": "1",
-      "wallpaper_name": "Image 25",
+      "wallpaper_name": "Boboi Boy 25",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/736x/8f/c6/a0/8fc6a0698c2823ccd9b1e11ab8eecff4.jpg"
     },
 	{
       "id": 26,
       "name_category": "1",
-      "wallpaper_name": "Image 26",
+      "wallpaper_name": "Boboi Boy 26",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/eb/c9/87/ebc98729670859f4e4b47c37dbaf43d6.jpg"
     },
 	{
       "id": 27,
       "name_category": "1",
-      "wallpaper_name": "Image 27",
+      "wallpaper_name": "Boboi Boy 27",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/0f/da/79/0fda7916b3f1c5b41ce849dbfeefa3e9.jpg"
     },
 	{
       "id": 28,
       "name_category": "1",
-      "wallpaper_name": "Image 28",
+      "wallpaper_name": "Boboi Boy 28",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/54/4c/10/544c1038185fd6730824b0ceca1ab7d8.jpg"
     },
 	{
       "id": 29,
       "name_category": "1",
-      "wallpaper_name": "Image 29",
+      "wallpaper_name": "Boboi Boy 29",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/4d/0c/5a/4d0c5a5537c5b75a2c7df9c5bec63378.jpg"
     },
 	{
       "id": 30,
       "name_category": "1",
-      "wallpaper_name": "Image 30",
+      "wallpaper_name": "Boboi Boy 30",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/a5/cd/2a/a5cd2af8b8f50adb2000c3ad114a00f0.jpg"
     },
 	{
       "id": 31,
       "name_category": "1",
-      "wallpaper_name": "Image 31",
+      "wallpaper_name": "Boboi Boy 31",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/43/26/42/43264205daf18b173864e65fd6a4f733.jpg"
     },
 	{
       "id": 32,
       "name_category": "1",
-      "wallpaper_name": "Image 32",
+      "wallpaper_name": "Boboi Boy 32",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/be/7c/2a/be7c2aa2eaa4ec761eeb2470ee91ec4c.jpg"
     },
 	{
       "id": 33,
       "name_category": "1",
-      "wallpaper_name": "Image 33",
+      "wallpaper_name": "Boboi Boy 33",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/c8/c0/4c/c8c04c953d1563e0c45412544bcee540.jpg"
     },
 	{
       "id": 34,
       "name_category": "1",
-      "wallpaper_name": "Image 34",
+      "wallpaper_name": "Boboi Boy 34",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/b2/9d/37/b29d3792fbaef289b457fb19e03f6b0a.jpg"
     },
 	{
       "id": 35,
       "name_category": "1",
-      "wallpaper_name": "Image 35",
+      "wallpaper_name": "Boboi Boy 35",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d0/41/ee/d041ee6390bc7121d280a6161e0a60d8.jpg"
     },
 	{
       "id": 36,
       "name_category": "1",
-      "wallpaper_name": "Image 36",
+      "wallpaper_name": "Boboi Boy 36",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/dd/b7/0f/ddb70fb3652af8ef6ed20e7c9ecdc0f5.jpg"
     },
 	{
       "id": 37,
       "name_category": "1",
-      "wallpaper_name": "Image 37",
+      "wallpaper_name": "Boboi Boy 37",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/e7/4f/77/e74f7718be4aa85efb5dc131ee21f486.jpg"
     },
 	{
       "id": 38,
       "name_category": "1",
-      "wallpaper_name": "Image 38",
+      "wallpaper_name": "Boboi Boy 38",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/98/dd/5c/98dd5c97a8f214f49b5a4f6a77736c08.jpg"
     },
 	{
       "id": 39,
       "name_category": "1",
-      "wallpaper_name": "Image 39",
+      "wallpaper_name": "Boboi Boy 39",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/54/64/fe/5464fe6e402b07b4f504030c87db07e1.jpg"
     },
 	{
       "id": 40,
       "name_category": "1",
-      "wallpaper_name": "Image 40",
+      "wallpaper_name": "Boboi Boy 40",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/fd/1f/28/fd1f28cc2e711b130bcbc89d3f9fb853.jpg"
     },
 	{
       "id": 41,
       "name_category": "1",
-      "wallpaper_name": "Image 41",
+      "wallpaper_name": "Boboi Boy 41",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/750x/ac/ed/ec/acedec71bc1fca6db29cd81be33f9aa0.jpg"
     },
 	{
       "id": 42,
       "name_category": "1",
-      "wallpaper_name": "Image 42",
+      "wallpaper_name": "Boboi Boy 42",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/750x/83/87/8d/83878d5629a2a3ee3b5dc1fea2642c46.jpg"
     },
 	{
       "id": 43,
       "name_category": "1",
-      "wallpaper_name": "Image 43",
+      "wallpaper_name": "Boboi Boy 43",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/b0/0c/b2/b00cb2afa26c22ff5833e7d4e364b4af.jpg"
     },
 	{
       "id": 44,
       "name_category": "1",
-      "wallpaper_name": "Image 44",
+      "wallpaper_name": "Boboi Boy 44",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/c3/58/31/c3583107d0589603d34da129b0f46ba2.jpg"
     },
 	{
       "id": 45,
       "name_category": "1",
-      "wallpaper_name": "Image 45",
+      "wallpaper_name": "Boboi Boy 45",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/a5/af/60/a5af604530a43bd1021fcb1fdb412dd5.jpg"
     },
 	{
       "id": 46,
       "name_category": "1",
-      "wallpaper_name": "Image 46",
+      "wallpaper_name": "Boboi Boy 46",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/f1/1f/25/f11f25533626fbf554757ed47be313b1.jpg"
     },
 	{
       "id": 47,
       "name_category": "1",
-      "wallpaper_name": "Image 47",
+      "wallpaper_name": "Boboi Boy 47",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/72/c7/35/72c735232d68cd8c4c87b046fb7d6497.jpg"
     },
 	{
       "id": 48,
       "name_category": "1",
-      "wallpaper_name": "Image 48",
+      "wallpaper_name": "Boboi Boy 48",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/736x/33/85/9f/33859fae413a91508f8301769c7faeec.jpg"
     },
 	{
       "id": 49,
       "name_category": "1",
-      "wallpaper_name": "Image 49",
+      "wallpaper_name": "Boboi Boy 49",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/10/e1/2d/10e12d365aab4ba7fae8db951c0f02e4.jpg"
     },
 	{
       "id": 50,
       "name_category": "1",
-      "wallpaper_name": "Image 50",
+      "wallpaper_name": "Boboi Boy 50",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 51,
-      "name_category": "1",
-      "wallpaper_name": "Image 51",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 52,
-      "name_category": "1",
-      "wallpaper_name": "Image 52",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 53,
-      "name_category": "1",
-      "wallpaper_name": "Image 53",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 54,
-      "name_category": "1",
-      "wallpaper_name": "Image 54",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 55,
-      "name_category": "1",
-      "wallpaper_name": "Image 55",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 56,
-      "name_category": "1",
-      "wallpaper_name": "Image 56",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 57,
-      "name_category": "1",
-      "wallpaper_name": "Image 57",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 58,
-      "name_category": "1",
-      "wallpaper_name": "Image 58",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 59,
-      "name_category": "1",
-      "wallpaper_name": "Image 59",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 60,
-      "name_category": "1",
-      "wallpaper_name": "Image 60",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 61,
-      "name_category": "1",
-      "wallpaper_name": "Image 61",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 62,
-      "name_category": "1",
-      "wallpaper_name": "Image 62",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 63,
-      "name_category": "1",
-      "wallpaper_name": "Image 63",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 64,
-      "name_category": "1",
-      "wallpaper_name": "Image 64",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 65,
-      "name_category": "1",
-      "wallpaper_name": "Image 65",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 66,
-      "name_category": "1",
-      "wallpaper_name": "Image 66",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 67,
-      "name_category": "1",
-      "wallpaper_name": "Image 67",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 68,
-      "name_category": "1",
-      "wallpaper_name": "Image 68",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 69,
-      "name_category": "1",
-      "wallpaper_name": "Image 69",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 70,
-      "name_category": "1",
-      "wallpaper_name": "Image 70",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 71,
-      "name_category": "1",
-      "wallpaper_name": "Image 71",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 72,
-      "name_category": "1",
-      "wallpaper_name": "Image 72",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 73,
-      "name_category": "1",
-      "wallpaper_name": "Image 73",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 74,
-      "name_category": "1",
-      "wallpaper_name": "Image 74",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 75,
-      "name_category": "1",
-      "wallpaper_name": "Image 75",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 76,
-      "name_category": "1",
-      "wallpaper_name": "Image 76",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 77,
-      "name_category": "1",
-      "wallpaper_name": "Image 77",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 78,
-      "name_category": "1",
-      "wallpaper_name": "Image 78",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 79,
-      "name_category": "1",
-      "wallpaper_name": "Image 79",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 80,
-      "name_category": "1",
-      "wallpaper_name": "Image 80",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 81,
-      "name_category": "1",
-      "wallpaper_name": "Image 81",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 82,
-      "name_category": "1",
-      "wallpaper_name": "Image 82",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 83,
-      "name_category": "1",
-      "wallpaper_name": "Image 83",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 84,
-      "name_category": "1",
-      "wallpaper_name": "Image 84",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 85,
-      "name_category": "1",
-      "wallpaper_name": "Image 85",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 86,
-      "name_category": "1",
-      "wallpaper_name": "Image 86",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 87,
-      "name_category": "1",
-      "wallpaper_name": "Image 87",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 88,
-      "name_category": "1",
-      "wallpaper_name": "Image 88",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 89,
-      "name_category": "1",
-      "wallpaper_name": "Image 89",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 90,
-      "name_category": "1",
-      "wallpaper_name": "Image 90",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 91,
-      "name_category": "1",
-      "wallpaper_name": "Image 91",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 92,
-      "name_category": "1",
-      "wallpaper_name": "Image 92",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 93,
-      "name_category": "1",
-      "wallpaper_name": "Image 93",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 94,
-      "name_category": "1",
-      "wallpaper_name": "Image 94",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 95,
-      "name_category": "1",
-      "wallpaper_name": "Image 95",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 96,
-      "name_category": "1",
-      "wallpaper_name": "Image 96",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 97,
-      "name_category": "1",
-      "wallpaper_name": "Image 97",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 98,
-      "name_category": "1",
-      "wallpaper_name": "Image 98",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 99,
-      "name_category": "1",
-      "wallpaper_name": "Image 99",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 100,
-      "name_category": "1",
-      "wallpaper_name": "Image 100",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/06/e5/e9/06e5e9a881fbbc156cdb4cad403a32a6.jpg"
     }
     
   ]
